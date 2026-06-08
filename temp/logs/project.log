@@ -1,0 +1,22 @@
+07-06-2026 19:32:05 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine
+07-06-2026 19:32:06 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine\native
+07-06-2026 19:32:07 - log: Request namespace: device-list
+07-06-2026 19:33:17 - log: [Scene] [bullet]:bullet wasm lib loaded.
+07-06-2026 19:33:17 - log: [Scene] [box2d]:box2d wasm lib loaded.
+07-06-2026 19:33:17 - log: [Scene] meshopt wasm decoder initialized
+07-06-2026 19:33:17 - log: [Scene] [PHYSICS]: using builtin.
+07-06-2026 19:33:18 - log: [Scene] Cocos Creator v3.8.7
+07-06-2026 19:33:20 - log: [Scene] Using legacy pipeline
+07-06-2026 19:33:20 - log: [Scene] Forward render pipeline initialized.
+07-06-2026 19:33:20 - log: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+07-06-2026 19:43:41 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@sentry\core\src\utils-hoist\instrument\console.ts:40:14)
+    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1637)
+    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3691)
+    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3427)
+    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:555)
+08-06-2026 00:14:11 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+08-06-2026 00:14:11 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html

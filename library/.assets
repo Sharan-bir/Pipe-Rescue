@@ -1,0 +1,33 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "scripts",
+            "scripts\\GameController.ts",
+            "scripts\\PathSolver.ts",
+            "scripts\\PipeTypes.ts",
+            "scripts\\TileNode.ts",
+            "resources",
+            "resources\\sprites",
+            "resources\\sprites\\background.png",
+            "resources\\sprites\\button_blue.png",
+            "resources\\sprites\\button_green.png",
+            "resources\\sprites\\pipe_cross.png",
+            "resources\\sprites\\pipe_cross_active.png",
+            "resources\\sprites\\pipe_dead.png",
+            "resources\\sprites\\pipe_dead_active.png",
+            "resources\\sprites\\pipe_elbow.png",
+            "resources\\sprites\\pipe_elbow_active.png",
+            "resources\\sprites\\pipe_empty.png",
+            "resources\\sprites\\pipe_goal.png",
+            "resources\\sprites\\pipe_start.png",
+            "resources\\sprites\\pipe_straight.png",
+            "resources\\sprites\\pipe_straight_active.png",
+            "resources\\sprites\\pipe_tee.png",
+            "resources\\sprites\\pipe_tee_active.png",
+            "prefabs",
+            "prefabs\\TilePrefab.prefab",
+            "Game.scene"
+        ]
+    }
+}

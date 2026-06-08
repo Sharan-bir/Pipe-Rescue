@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipe_tee",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 4,
+      "width": 128,
+      "height": 124
+    },
+    "offset": {
+      "x": 0,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 128,
+      "height": 128
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -64,
+        -62,
+        0,
+        64,
+        -62,
+        0,
+        -64,
+        62,
+        0,
+        64,
+        62,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        124,
+        128,
+        124,
+        0,
+        0,
+        128,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.96875,
+        1,
+        0.96875
+      ],
+      "minPos": {
+        "x": -64,
+        "y": -62,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 64,
+        "y": 62,
+        "z": 0
+      }
+    },
+    "texture": "4500950a-9609-44cf-b570-f02e232741f5@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

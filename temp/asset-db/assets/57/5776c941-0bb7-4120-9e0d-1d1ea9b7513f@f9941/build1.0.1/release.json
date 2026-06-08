@@ -1,0 +1,113 @@
+[
+    1,
+    [
+        "57dslBC7dBIJ4NHR6pt1E/@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "pipe_tee_active",
+            "rect": {
+                "x": 0,
+                "y": 4,
+                "width": 128,
+                "height": 124
+            },
+            "offset": {
+                "x": 0,
+                "y": -2
+            },
+            "originalSize": {
+                "width": 128,
+                "height": 128
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "vertices": {
+                "rawPosition": [
+                    -64,
+                    -62,
+                    0,
+                    64,
+                    -62,
+                    0,
+                    -64,
+                    62,
+                    0,
+                    64,
+                    62,
+                    0
+                ],
+                "indexes": [
+                    0,
+                    1,
+                    2,
+                    2,
+                    1,
+                    3
+                ],
+                "uv": [
+                    0,
+                    124,
+                    128,
+                    124,
+                    0,
+                    0,
+                    128,
+                    0
+                ],
+                "nuv": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0.96875,
+                    1,
+                    0.96875
+                ],
+                "minPos": {
+                    "x": -64,
+                    "y": -62,
+                    "z": 0
+                },
+                "maxPos": {
+                    "x": 64,
+                    "y": 62,
+                    "z": 0
+                }
+            },
+            "packable": true,
+            "pixelsToUnit": 100,
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "meshType": 0
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]
