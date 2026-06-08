@@ -50,7 +50,7 @@ pipe-rescue/
 ├── build/
 |   └── pipe-rescue/
 |       └── src/
-|       ├── index.html     ← Run this file to play game
+|       ├── index.html     ← Run this file to play the game
 |
 └── README.md
 ```
